@@ -1,0 +1,60 @@
+cigarette#not recyclable
+unlabeled litter#unknown
+plastic film#plastics and metals
+clear plastic bottle#plastics and metals
+other plastic#plastics and metals
+other plastic wrapper#plastics and metals
+drink can#plastics and metals
+plastic bottle cap#plastics and metals
+plastic straw#plastics and metals
+broken glass#glass
+styrofoam piece#not recyclable
+disposable plastic cup#plastics and metals
+glass bottle#glass
+pop tab#plastics and metals
+other carton#paper
+normal paper#paper
+metal bottle cap#plastics and metals
+plastic lid#plastics and metals
+paper cup#paper
+corrugated carton#paper
+aluminium foil#plastics and metals
+single-use carrier bag#plastics and metals
+other plastic bottle#plastics and metals
+drink carton#paper
+tissues#not recyclable
+crisp packet#plastics and metals
+disposable food container#plastics and metals
+plastic utensils#not recyclable
+food can#plastics and metals
+garbage bag#plastics and metals
+meal carton#paper
+rope & strings#not recyclable
+paper bag#paper
+scrap metal#plastics and metals
+foam food container#not recyclable
+foam cup#not recyclable
+magazine paper#paper
+wrapping paper#paper
+egg carton#paper
+aerosol#not recyclable
+metal lid#plastics and metals
+spread tub#plastics and metals
+food waste#organic
+shoe#not recyclable
+squeezable tube#plastics and metals
+aluminium blister pack#plastics and metals
+glass cup#glass
+other plastic container#plastics and metals
+glass jar#glass
+six pack rings#plastics and metals
+toilet tube#paper
+paper straw#paper
+plastic glooves#plastics and metals
+tupperware#not recyclable
+polypropylene bag#not recyclable
+pizza box#not recyclable
+other plastic cup#plastics and metals
+battery#not recyclable
+carded blister pack#not recyclable
+plastified paper bag#not recyclable
